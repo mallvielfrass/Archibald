@@ -3,44 +3,15 @@ package main
 import (
 	"fmt"
 	"github.com/go-telegram-bot-api/telegram-bot-api"
-//	"golang.org/x/net/proxy"
+	//	"golang.org/x/net/proxy"
 	"io/ioutil"
 	"log"
-	"math/rand"
+	//	"math/rand"
 	"net/http"
-//	"os"
+	//	"os"
 	"strings"
 )
-func alarm(data string)(string,bool){
-	word:=""
-          massiv:=strings.Split(data,"гент")
-          zero:=massiv[len(massiv)-2]
-          splitZero:=strings.Split(zero," ")
-          cleanSplitZero:=splitZero[len(splitZero)-1]
-          if len(cleanSplitZero)>0 {
-          //      fmt.Println("gentoo false")
-                  return word,false
-          }
-  //fmt.Println(cleanSplitZero)
- banword := []string{"бан", "ловите гентушника", "бан за генту","ребят, бьем его"}
- word = banword[rand.Intn(len(banword))]
-  return word,true
-  }
 
-func alarmz(word string) (string, bool) {
-	x := false
-
-	gentlen := len(strings.Split(word, "гент"))
-	fmt.Println("glen", gentlen)
-	banword := []string{"бан", "ловите гентушника", "бан за генту"}
-	if gentlen > 1 {
-		x = true
-		word = banword[rand.Intn(len(banword))]
-		fmt.Println(word)
-	}
-
-	return word, x
-}
 func main() {
 	//	pconf, err := ioutil.ReadFile("proxy.conf")
 	//	if err != nil {
@@ -81,32 +52,28 @@ func main() {
 	go http.ListenAndServeTLS("0.0.0.0:8443", "cert.pem", "key.pem", nil)
 	for update := range updates {
 		log.Printf("update")
-		// log.Printf("%+v\n", updates)
+		if update.Message == nil { // ignore any non-Message Updates
+			continue
+		}
 		log.Printf("Message: [%s] %s %s", update.Message.From.UserName, update.Message.Text, update.Message.Sticker)
 
 		mess := update.Message.From.UserName + ":\n " + update.Message.Text
-		// gentlen:=len(strings.Split(mess,"гент"))
-		// fmt.Println("glen",gentlen)
-		//banword:=[]string{"бан","ловите гентушника","бан за генту"}
-		// if gentlen>1 {
-		//		 mess=banword[rand.Intn(len(banword))]
-		//	 }
 		fmt.Println("mess:", mess)
-		
-		rettext,retbool:=alarm(update.Message.Text)
-		if retbool==true {
-		truemsg := tgbotapi.NewMessage(update.Message.Chat.ID, rettext)
-		bot.Send(truemsg)
-		} else{
+		retbool, rettext := GentooAlarm(mess)
+		fmt.Println("retbool: ", retbool, " | rettext: ", rettext)
+		if retbool == true {
+			truemsg := tgbotapi.NewMessage(update.Message.Chat.ID, rettext)
+			bot.Send(truemsg)
+		} else {
 			msg := tgbotapi.NewMessage(update.Message.Chat.ID, mess)
 			bot.Send(msg)
 		}
-	//	fmt.Println("return text bool: ",rettext,retbool)
-	//	log.Printf("Message: [%s] %s %s", update.Message.From.UserName, update.Message.Text)
-	///	//bot.GetFileDirectURL(
-	//	text := mess
-	//	msg := tgbotapi.NewMessage(update.Message.Chat.ID, text)
+		//	fmt.Println("return text bool: ",rettext,retbool)
+		//	log.Printf("Message: [%s] %s %s", update.Message.From.UserName, update.Message.Text)
+		///	//bot.GetFileDirectURL(
+		//	text := mess
+		//	msg := tgbotapi.NewMessage(update.Message.Chat.ID, text)
 		//msg.ReplyToMessageID = update.Message.MessageID
-	//	bot.Send(msg)
+		//	bot.Send(msg)
 	}
 }
