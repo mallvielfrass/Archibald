@@ -25,7 +25,7 @@ import (
 func GentooAlarm(messageText string) (bool, string) {
 //	regexpRule, _ := regexp.Compile("\\B[Гг]ент")
 
-regexpRule, _ := regexp.Compile("(?:[^A-Za-zА-Яа-яЁё0-9_]|^)[Гг]ент|[Gg]entoo")
+regexpRule, _ := regexp.Compile("(?:[^A-Za-zА-Яа-яЁё0-9_]|^)[Гг]ент|[Gg]entoo|([Дд]ж|[Жж])ент[ауео]")
 regxpValue := regexpRule.MatchString(messageText)
 	if regxpValue == true {
 	//	ParseResult := WordParse(messageText)
