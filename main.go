@@ -55,6 +55,7 @@ func main() {
 		if update.Message == nil { // ignore any non-Message Updates
 			continue
 		}
+		fmt.Println(tgbotapi.Chat.ChatConfig(update.Message.Chat.ID))
 		log.Printf("Message: [%s] %s %s", update.Message.From.UserName, update.Message.Text, update.Message.Sticker)
 //if update.Message.Caption != "" { // ignore any non-Message Updates
 //	                         fmt.Println("update.Message.Caption: ",update.Message.Caption)
@@ -65,7 +66,7 @@ func main() {
                                    fmt.Println("update.Message.Caption: ",update.Message.Caption)
            mess=mess+"\n"+"update.Message.Caption: "+update.Message.Caption
 			   }
-
+	//	fmt.Println(bot.ChatConfig())
 		fmt.Println("mess:", mess)
 		retbool, rettext := GentooAlarm(mess)
 		fmt.Println("retbool: ", retbool, " | rettext: ", rettext)
