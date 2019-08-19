@@ -1,184 +1,173 @@
-559723688|rasongame|rasonbot 👾|None|
 229558262|vielfrass|Captain Jack|Vielfrass 🇷🇺🇮🇹🧚‍|
-351714308|IlyaFedin|𝙼𝚛. 𝙱𝚘𝚠𝚕𝚎𝚛 𝙷𝚊𝚝|None|
-377953539|fishlabsoman|FisHlaBsoMAN|None|
-594569893|archlinux_ru_bot|Бот archlinux_ru|None|
-375838314|neon_dev1l|Злой|Круассан|
-962422578|archlinux_ru_bridge_bot|Мост archlinux_ru в Matrix|None|
-546029706|NXShock|Andrew|None|
-431590221|python_user|Student|B.|
-341349462|stezkoy|Stezkoy|None|
-184505775|Julian_CM|Julian =)|Coffee|
-222230084|r4v3n6101|Slava|Sokolovsky|
-177319563|rustem_b|Rustem|B.|
-392204766|offical_ares|AreS|Maier|
-93479766|dialdialdial|Dmitry|None|
-221040914|XShell|AlexShell|Makise|
-659163175|None|А|None|
-140315848|morfin60|Alexander|N|
-217648816|Torchwood01|Mercurio Noctua|None|
-313092884|banofbot|Banof|None|
 379922090|tsaruk1van|Ivan|None|
-473901922|iamchips|Nikolay|None|
-274483640|stick_qwe|Bulgakov|Vladislav|
+314432860|tpouhuk|tpouhuk|🥔|
+600432868|nyawoobot|Лолька|Бандеролька|
+59334677|ekazak48|Eugene|None|
+659163175|None|А|None|
+307499173|popovous|Aleksandr|Popov|
+546029706|NXShock|Andrew|None|
+253258519|xx264|win9z|None|
+93479766|isebys|Dmitry|None|
+594569893|archlinux_ru_bot|Бот archlinux_ru|None|
+363416049|mikhailnov|Михаил|Новоселов|
+217648816|Torchwood01|Mercurio Noctua|None|
+461638860|apw43|Мятный|Эдик|
+183794518|None|Аleksandr|ll|
+341349462|stezkoy|Stezkoy|None|
+98736263|gtimoshaz|Георгий|Тимофеевский|
+377953539|fishlabsoman|FisHlaBsoMAN|None|
+221040914|XShell|AlexShell|Makise|
+68063409|mrPazzi|mr.Pazzi|None|
+351714308|IlyaFedin|𝙼𝚛. 𝙱𝚘𝚠𝚕𝚎𝚛 𝙷𝚊𝚝|None|
+140315848|morfin60|Alexander|N|
+388659684|oleksz|long long|int|
 198683966|mikdmst|Митяй 🐲 Митяй|None|
+304322152|lU_w_Ul|>|None|
+274483640|stick_qwe|Bulgakov|Vladislav|
+519469390|Insideskynet|Inside|Skynet|
+524999855|AstepiX|Аstepix|None|
+338296751|kkvark|kvark|None|
+212588002|username_ak|UsernameAK|None|
+543264536|serh39|serh39(krsk)⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤|⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤|
+113390007|picokun|пикотранзистор|ᶘಠᴥಠᶅ|
+115222328|AsGreyWolf|Aidar|Fattakhov|
+311817495|mrostrich|Max|None|
+177319563|rustem_b|Rustem|B.|
+627367457|rlydope|yyxxgwj|None|
+468734065|alexandr_guluta|Alexandr|Guluta|
+124026478|dantistnfs|Stas|Zubenko🦄|
+431590221|python_user|Student|B.|
+419697970|SmolnikovAM|Andrei|Smolnikov|
+837913122|None|Evan|Gelion|
+95040501|Lorem_Impsum|Dmitry|Romanov|
+790184743|None|Aleksandr|None|
+313092884|banofbot|Banof|None|
+314786110|None|(=j&*%7TqQ)292pD|None|
+576386083|Funk2256|Funk2556|None|
+82837938|aaZUbkP1BwCP1HYG|Алексей|А.|
+786597712|kup5u4|usanama|None|
+520299731|archmurai|Archmurai|None|
+168456559|geovex|Heorhi|None|
+429785322|rammmfannn|Anton|Khokhlov|
+289196710|yakivgolub|C♂urier 6ix|None|
+168720712|joyhusky|JH|None|
+143921124|AndreyChus|Андрей|Чусов|
+668017710|sdcvewgtw|Ideet|None|
+345466779|deusiudex|¿hope|None|
+7412096|erhoof|Erhoof|None|
+117075468|FromSi|Влад|Вебер-Пфляумер|
+396787432|anonyan|Экспонента|None|
+43321131|this_self|Ihor|Levchenko|
+167958665|olegchir|Oleg|Chirukhin ☄️ 🧙🏻‍♂️🚀|
+373649910|Clatchd|Faglo|None|
+360806474|goodoldund|und|ユビキタス|
+171852436|LeD3F|LeD3F|None|
+549057303|movecxedx|Dumitru|G|
+128414991|limch|Eugene|None|
+962422578|archlinux_ru_bridge_bot|Мост archlinux_ru в Matrix|None|
+493821534|spitefulcircle|Definitely not an ice fairy|None|
+375838314|neon_dev1l|Злой|Круассан|
+473901922|iamchips|Nikolay|None|
 259276793|voicybot|Voicy|None|
 785837200|themisterdog|Dog|None|
-468734065|alexandr_guluta|Alexandr|Guluta|
-290634168|None|User|None|
-363416049|mikhailnov|Михаил|Новоселов|
-411672937|Mi_Linux|☬☭Тупо лучше|Император℻|
 548380210|GrStatsBot|Group Stats Bot|None|
-627367457|rlydope|dumbian|None|
-98736263|gtimoshaz|Георгий|Тимофеевский|
-167958665|olegchir|Oleg|Chirukhin ☄️ 🧙🏻‍♂️🚀|
 420415423|matrix_t2bot|Matrix Telegram Bridge|None|
-429785322|rammmfannn|Anton|Khokhlov|
-311817495|mrostrich|Max|None|
 311811897|nasled|Art|Naslednikau|
-922887783|None|None|None|
-304322152|lU_w_Ul|>|None|
-520299731|archmurai|Archmurai|None|
-314432860|tpouhuk|tpouhuk|🥔|
-530394773|None|Александр|Спирит|
-124026478|dantistnfs|Stas|Zubenko🦄|
-253258519|xx264|win9z|None|
+530394773|None|Hunger|Neo|
 832020943|asc11cat|asc11cat|None|
-68063409|mrPazzi|mr.Pazzi|None|
-95040501|Lorem_Impsum|Dmitry|Romanov|
 721052577|CyberpunkVR|CyberpunkVR|None|
-128414991|limch|Eugene|None|
 222885351|klubes|Dennis|Kh|
-113390007|picokun|пикотранзистор|ᶘಠᴥಠᶅ|
 446316649|franky_5|franky|None|
 631760859|nougat_user|Arseny|Bourne|
-639874166|None|None|None|
 486288680|alex_medvednikov|Alexander|None|
-168720712|joyhusky|JH|None|
-396787432|anonyan|Экспонента|None|
-600432868|nyawoobot|Лолька|Бандеролька|
 327693562|Tyler_Millman|Tyler|Millman|
-668017710|sdcvewgtw|Ideet|None|
 40250761|Yoshimo|Yoshi|None|
 91316295|nomachi|John|Christensen|
-360806474|goodoldund|und|ユビキタス|
 312036737|mwar_ru|mwar_ru|None|
-168456559|geovex|Heorhi|None|
-576386083|Funk2256|Funk2556|None|
 132669168|pooh2pooh|Pooh|None|
 125961933|thegood7ife|Sergey|Katkov|
-493821534|spitefulcircle|Definitely not an ice fairy|None|
 867846854|Systemengineer12|Евгений|Попов|
-543264536|serh39|serh39(krsk)⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤|⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤⁤|
 352281531|synar|Ruben|None|
-340097844|None|#|None|
 437520502|h4cktill|Till|Schneider|
 860611262|halflife80kk|Период Полураспада|None|
 499593964|Krokodilschnapp|UCMe|None|
-419697970|SmolnikovAM|Andrei|Smolnikov|
 267379968|olekx|🕯 𝔦𝔱'𝔰 𝔪𝔢, 𝔞𝔩𝔢𝔵 🕯|None|
-171852436|LeD3F|LeD3F|None|
 420863180|Lorkes|͏|Żenia|
-183794518|None|Аleksandr|ll|
 419234778|gavr123456789|gavr|None|
-786597712|kup5u4|usanama|None|
 351715904|Mefodeei|Мефодий|None|
 625738402|IKAndreev|Arch|Линух|
-7412096|erhoof|Pavel|Bibichenko (erhoof)|
-517888083|daniilak|Daniilak|None|
-463647779|vampirescantlove|170391|None|
+517888083|daniilak|Mr. Daniilak|None|
+463647779|mydeadvictoria|170391|None|
 764819923|None|Arcanis|ElPidoraso|
 468950153|None|ヴェノム|ライトニング 🏳️‍🌈🎌 // 👹™|
 240044026|IFTTT|IFTTT|None|
 141217234|serferius|serferius|None|
 764376851|Noikus|Noikus|None|
-288460332|irtins|🐍|None|
 408191506|AnKoN13|AnKoN|None|
 343097987|kraftwerk28|GNU/Vsevolod.rs|None|
-373918412|IlyaStadnik|Илья|None|
 562392339|tho1337|Jim Morrison|None|
 700974480|FLYBasher|Ученик|Труда|
 656171261|None|J|None|
 243010694|Alidrod|Your Wet Dreams|/ Alidrod /|
 230161638|hovadur|Алежка|None|
-212588002|username_ak|UsernameAK|None|
 455037771|AIRiec|треугольный|петрович|
 57259067|vpavlikov|Vitaliy|None|
 125561028|whyuasking|.|None|
-43321131|this_self|Ihor|Levchenko|
 525875863|readonlys|Read|Only|
 683232104|Im_Escanor|Тима|None|
 694116221|MagTemTenebrius|Alexander|First|
 534253304|Kuryfury|Tellur | cybersempai|None|
-194171706|hav00k|Alexey|V.|
+194171706|hav00k|начинающий|None|
 379035577|vracer|VRacer|None|
 223898692|noisethis|Alexander|None|
-812072518|None|None|None|
 329398814|Arwichok|Arwichok|None|
-813350178|None|None|None|
 658617069|bandican|Shaliko|Salimov|
 695356235|None|20597|سهراب تیموری زاده|
 395677966|Mmurmur|Murmur|None|
-876414279|None|None|None|
 244409841|None|Oleg|None|
 130132498|gavrilrebrov|Gavril|None|
-725499574|None|None|None|
-115222328|AsGreyWolf|Aidar|Fattakhov|
 180446999|dazaiko|Dazai|Osamu|
-524999855|AstepiX|Аstepix|None|
 357511312|EUnone|Eugene|JustMe|
 457010490|izhun|Ihor|None|
 177833805|toz0r|Шурик|None|
 96012562|Ghost_Air|ɢʰᵒˢᵗ|ᴀⁱʳ|
 304333951|Veirab|Denis|Bariev|
 111733381|abiogenesis|🍣🌴 abiogenesis 🌴🍣|None|
-738046753|None|None|None|
-837126032|None|None|None|
 286650825|flagrantior|Flagrantior|None|
 288193036|another_arty|Артур|Семенов|
 372796430|None|Игорь|Дидковский|
-836201324|ufetch|communism, GNU/Linux-libre|None|
+836201324|ufetch|uepfir job c++|None|
 286400712|relsarail|relsarail|(lavender)|
-197673464|maniastern|Наноблядун|None|
-802207385|dopplerr|Doppler|@hiddmond_blackboard [Буду 11.08]|
 266788827|Yarila_682|Yarila|None|
 238142616|B_Oleg|Oleg|None|
 820343604|Apbl4|Apbl4|None|
 300912360|LinkLead|L|None|
-289196710|yakivgolub|C♂urier 6ix|None|
-461638860|apw43|Мятный|Эдик|
 483047297|HackerPain|HackerPain|None|
 146106940|teenlesha|черешня199|None|
 488874965|rawflux|Rawflux|None|
 397289384|Aazmanidius|Aazmanidius|None|
-787369011|None|None|None|
 309225112|yngvi9|Kirill|None|
-82837938|aaZUbkP1BwCP1HYG|Алексей|А.|
 432033583|Kocaniy|Юрий|Юрьевич|
 82920835|Korolr|Alexsey|Ramzaev ⍉|
 161306274|xenomorphx|Xenomorph|None|
-656927387|None|None|None|
 208959489|Denisoid|Denis|None|
-790078735|None|GNU/Nerd|None|
+790078735|None|NSNerd|None|
 338315449|svartes|Nixon|None|
 284557797|MustD1e|Oleg|Ivchenko|
-596084078|None|None|None|
 338815652|FirstinTop|_$edo¥_|None|
-523792555|cybervgb|Улица|None|
+523792555|None|Улица|None|
 183904270|madi139|Madi|Azhigali|
 51937772|Tahvok|Albert|Mikaelyan|
 340946082|a_n_d_rey|Andrey|None|
-314786110|None|(=j&*%7TqQ)292pD|None|
 183139079|a3v3r|Aever|None|
 530683504|None|Vladislav|Lomakin|
 850335745|moonlightalucard|Сумрачный Мракоборец|None|
 159469089|vnikita|Nikita|Vilunov|
 239702299|shishelov|Никита|None|
-118813509|a4necromant|Дренейка|Пустоты|
+118813509|a4necromant|Дренейка|Пустоты 🎡|
 781126554|nemoutis|nemo|outis|
 427448087|tagerSU|tager|None|
 497142535|al96ex|Entropie von Tesla|None|
-788601467|None|None|None|
 343527839|None|Илюшин|Сергей|
 358250378|zeroxone|0x1|None|
 458008848|None|localhost|None|
@@ -188,18 +177,16 @@
 397731417|None|Eugene|None|
 256553383|mainzac|Anton|None|
 368471979|archerfox|Archie|Fox|
-641209113|None|None|None|
 400230688|dobromils|Женя|Добромильский|
 689781310|escaIade|Маркетинговая|Революция|
 98549408|xRemaLx|Anton|Komolov|
 267655774|None|Maxim|None|
-319043582|sugaryt1d|Nikolay|Borodin|
+319043582|nikolaiborodin|Nikolay|Borodin|
 447775364|None|Egor|Alekseevich|
-117075468|FromSi|Влад|Вебер-Пфляумер|
 438745036|Strong2045|๖ۣۜКовзун ๖ۣۜСергей|None|
 25222173|regorov|Robert|Egorov|
 161931905|hr111|🌀hr|None|
-263360687|ed_88|Eduard|None|
+263360687|ktled|E.|None|
 441930555|None|Besha|None|
 381318275|myralllka|🐜|None|
 129347996|svirepovd|Denis Svirepov|None|
@@ -233,9 +220,6 @@
 218795469|Mrlisazay|Alexandr|Kek|
 522642086|Foxy3301|-_-"|None|
 379350534|visualmusic|mx|None|
-519469390|Insideskynet|Inside|Skynet|
-592721572|skhtpsfdf|Ideet|None|
-307499173|popovous|Aleksandr|Popov|
 164383389|mdubas|Maksim|B.|
 281958316|Den_Beckett|Den|Beckett|
 633930639|None|gaoshan|yingzhe|
@@ -267,8 +251,6 @@
 131949789|KennyDT|Ариох|Бельский|
 334197196|vitsko|vitsko|None|
 214263305|agafron|Agafron|None|
-187709685|shrmndr|shrmndr|None|
-308949715|borutsky|Vladimir|None|
 346008718|None|Wolf|None|
 369699464|Running_With_Scissors|Тёть Нин (нет гуд интернета)|(проблемы с интернетом, редко загружает ЛС и отправляет|
 233871731|researcher_kot|Alexey|Leonov|

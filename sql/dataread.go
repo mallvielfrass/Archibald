@@ -16,6 +16,9 @@ func main() {
 		log.Fatalln(err)
 	}
 	archz := strings.Split(string(library), "\n")
-	arch:=strings.Split(archz[0],"|")
-	fmt.Println(arch[0])
+	lenArch:=len(archz)-1
+	for j := 0; j < lenArch; j++ {
+	arch:=strings.Split(archz[j],"|")
+	fmt.Println(arch[0],arch[1],arch[2],arch[3])
+}
 }

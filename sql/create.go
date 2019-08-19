@@ -10,18 +10,18 @@ import (
 
 func main() {
 
-	db, err := sql.Open("sqlite3", "./database.db")
+	db, err := sql.Open("sqlite3", "./user.db")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer db.Close()
-
+//id username first_name last_name
 	sqlStmt := `
 	CREATE TABLE data(
-  		id    INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
-  		username  TEXT,
-  		password  TEXT,
-  		token TEXT
+  		id    		INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, 
+  		username  	TEXT,
+  		first_name	TEXT,
+  		last_name	TEXT
 	)	
 	`
 	_, err = db.Exec(sqlStmt)
